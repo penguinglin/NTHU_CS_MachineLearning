@@ -44,6 +44,6 @@ Also,we've provide different color scheme of the app and different window size i
 
 
 
-> The details of this research can be found in [Report](ML_Peport.pdf)
+> The details of this research can be found in [Report](ML_Report.pdf)
 
 > Team members: Pei-Lin, Hua-Wei, I-Ping, Wei-Sheng, CTing-Jyun.
