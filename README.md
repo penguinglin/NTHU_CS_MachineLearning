@@ -19,7 +19,7 @@ Operated with Python = 3.9
 
 ### Fetch checkpoints (Necessary before execution)
 
-Download the two required file on this [link]([https://drive.google.com/drive/folders/13kkLBnhuWrnod1gcaI7KAo86qEKMRGVI?usp=drive_link](https://drive.google.com/drive/folders/1UTnCO9EIFA4HHc-CjIZ58-of4TQ3u7Qo?usp=sharing)
+Download the two required file on this [link](https://drive.google.com/drive/folders/1UTnCO9EIFA4HHc-CjIZ58-of4TQ3u7Qo?usp=sharing)
 
 And copy the files into `/checkpoints/train`, then you could start using the application.
 
